@@ -556,7 +556,7 @@ section,
   position: absolute;
   inset: 0;
   display: block;
-  width: 100%;
+  width: 50%;
   height: 50%;
   object-fit: cover;
   z-index: 1;
